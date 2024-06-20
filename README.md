@@ -52,7 +52,7 @@ Use the following sample texts to test the sentiment analysis:
     - "I had a wonderful experience using this product. It exceeded all my expectations!"
     - "The customer service was outstanding, and the quality of the product is top-notch."
     - "I am extremely satisfied with my purchase. Highly recommended!"
-![Positive Sentiment](app_screens/positive.png)
+![Positive Sentiment](app_screens/home.PNG)
 3. **Negative Sentiment**:
     - "This product is terrible. It broke within a week of use and the customer service was unhelpful."
     - "I am very disappointed with this purchase. It did not meet my expectations at all."
